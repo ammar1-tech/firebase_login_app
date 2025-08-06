@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706593407937",
+    "project_id": "firbase-app-aa518",
+    "storage_bucket": "firbase-app-aa518.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706593407937:android:d889ae031fa7d32c6be540",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6fc49KK6xxc0AAiwNHg-mI-IRGaVrzmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
